@@ -91,12 +91,12 @@
     "semantic-release": "15.14.0",
     "simple-commit-message": "4.0.13",
     "standard": "12.0.1",
-    "vue": "2.6.10",
+    "vue": "2.6.11",
     "vue-i18n": "7.8.1",
     "vue-loader": "14.2.4",
-    "vue-router": "3.0.5",
-    "vue-template-compiler": "2.6.10",
-    "vuex": "3.1.1",
+    "vue-router": "3.1.5",
+    "vue-template-compiler": "2.6.11",
+    "vuex": "3.1.2",
     "webpack": "4.41.5"
   },
   "standard": {
