@@ -87,7 +87,7 @@
     "license-checker": "19.0.0",
     "mocha": "7.0.1",
     "pre-git": "3.17.1",
-    "prettier-standard": "8.0.1",
+    "prettier-standard": "16.1.0",
     "semantic-release": "15.14.0",
     "simple-commit-message": "4.0.13",
     "standard": "12.0.1",
